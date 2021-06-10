@@ -3,7 +3,7 @@
 
 [Demo aqui](https://jeanrafaellourenco.github.io/placa-cipa-para-contagem-de-dias-sem-acidentes/)
 
-A data do último acidente o récorde de dias sem acidentes podem ser alteradas no arquivo `script.js`.
+A data do último acidente e o récorde de dias sem acidentes podem ser alteradas no arquivo `script.js`.
 
 ![imagem demostração](./imagens/demo-0.png)
 
