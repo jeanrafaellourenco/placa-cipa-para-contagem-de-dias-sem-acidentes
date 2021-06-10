@@ -14,7 +14,7 @@ setInterval(function () {
     var _dia = _hora * 24;
 
     var atual = new Date();
-    var ultimoAcidente = new Date('06/09/2021 00:01:00'); // MM/DD/YYYY
+    var ultimoAcidente = new Date('06/09/2021'); // MM/DD/YYYY HH:MM:SS
     var recordeMaximo = 147;
 
     var diferenca = atual - ultimoAcidente;
